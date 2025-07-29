@@ -1,0 +1,11 @@
+<Customer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="customer.xsd">
+  <CustomerID>CUST12345</CustomerID>
+  <Name>John Doe</Name>
+  <Email>john.doe@example.com</Email>
+  <Account>
+    <AccountNumber>ACC7890</AccountNumber>
+    <AccountType>Savings</AccountType>
+    <Balance>1050.75</Balance>
+  </Account>
+</Customer>
