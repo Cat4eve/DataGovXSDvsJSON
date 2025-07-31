@@ -1,0 +1,11 @@
+{
+  "$schema": "./customer.schema.json",
+  "CustomerID": "CUST12345",
+  "Name": "John Doe",
+  "Email": "john.doe@example.com",
+  "Account": {
+    "AccountNumber": "ACC7890",
+    "AccountType": "Savings",
+    "Balance": 1050.75
+  }
+}
